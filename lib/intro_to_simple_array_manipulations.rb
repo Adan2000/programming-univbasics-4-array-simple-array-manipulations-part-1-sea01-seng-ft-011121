@@ -17,8 +17,7 @@ end
 
 def using_unshift (array)
   array.shift
-  binding.pry
-  puts "hi"
+
 end
 
 
